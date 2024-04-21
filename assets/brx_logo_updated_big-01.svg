@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: RalewayRoman-Black, Raleway;
+        font-size: 308.93px;
+        font-variation-settings: 'wght' 900;
+        font-weight: 800;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="m980,20v960H20V20h960m20-20H0v1000h1000V0h0Z"/>
+  <text class="cls-1" transform="translate(49.84 940.5)"><tspan x="0" y="0">BR</tspan><tspan class="cls-3" x="421.68" y="0">X</tspan></text>
+</svg>
